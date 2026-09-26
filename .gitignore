@@ -1,0 +1,19 @@
+bin/
+build/
+.gradle/
+# The forked-process tests mirror their classpath into target/test-classes.
+target/
+test.log
+writeLoop.data
+*.swp
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.idea
+.sonar
+release.sh
+rebel.xml
+src/main/resources/rebel.xml
